@@ -1,0 +1,30 @@
+{
+    "families": [
+      {
+        "name": "Rust",
+        "description": "Shelly Rust, the daughter of Linda Cecil, is a culinary enchantress who graces the family table with her captivating dishes. Her repertoire spans from heavenly desserts like the indulgent Chocolate Eclair Pie to savory delights like the comforting Broccoli Casserole and the irresistible Crock Pot BBQ Pulled Pork. Each bite is a testament to Shelly's creative flair and impeccable taste, leaving a lasting impression on all who have the pleasure of savoring her creations.",
+        "imageSource": "https://cmst488-drust2.azurewebsites.net/Project4/images/shelly.png"
+      },
+      {
+        "name": "Cecil",
+        "description": "The Cecil family is led by Linda Cecil, the daughter of Betty White. Linda's three daughters, April Haddaway, Shelly Rust, and Christy McDorman, contribute their unique flavors to our family recipes. Linda's specialties include the famous 'Squirrel Yum Yum,' a holiday favorite, as well as a delicious roast beef meal with potatoes and carrots.",
+        "imageSource": "https://cmst488-drust2.azurewebsites.net/Project4/images/linda.png"
+      },
+      {
+        "name": "Haddaway",
+        "description": "April Haddaway, the daughter of Linda Cecil, is a culinary virtuoso who enchants taste buds with her exquisite creations. Her repertoire includes the tantalizing Creamy Buffalo Chicken Dip, an irresistible blend of tender chicken, zesty spices, and creamy goodness. She wows with her Insta Pot Macaroni and Cheese, serving up velvety cheese sauce over perfectly cooked macaroni. And let's not forget her heavenly Crock Pot Broccoli and Cheese Soup, a warm and comforting delight that combines wholesome broccoli florets with velvety cheese. April's recipes are a testament to her culinary expertise, ensuring unforgettable dining experiences with each indulgent bite.",
+        "imageSource": "https://cmst488-drust2.azurewebsites.net/Project4/images/april.png"
+      },
+      {
+        "name": "Palmatary",
+        "description": "Sharon Palmatary, daughter of Betty White, is a culinary maestro known for her delectable Baked Macaroni and Cheese. This iconic dish is a harmonious blend of al dente macaroni enveloped in a creamy, cheesy sauce, all baked to golden perfection. Sherry's mastery lies in achieving the perfect balance of flavors and textures, making her Baked Macaroni and Cheese a true comfort food classic. With every forkful, you'll savor the rich, velvety cheese, the delicate hints of seasonings, and the satisfying bite of perfectly cooked pasta. Sherry's Baked Macaroni and Cheese is a testament to her culinary prowess and a dish that will have you coming back for seconds.",
+        "imageSource": "https://cmst488-drust2.azurewebsites.net/Project4/images/sharon.png"
+      },
+      {
+        "name": "Phillips",
+        "description": "Deana Phillips, the daughter of Sharon Palmatary, is renowned for her culinary masterpiece: Crock Pot Twice Baked Potatoes. These delectable potatoes are a testament to her culinary prowess and attention to detail. Dee's skillful preparation and slow cooking method result in potatoes that are tender and flavorful. Each bite is a delightful combination of creamy textures and rich flavors that will leave you craving more. Dee's Crock Pot Twice Baked Potatoes have become a cherished favorite among family and friends, a dish that never fails to impress with its comforting appeal and mouthwatering taste.",
+        "imageSource": "https://cmst488-drust2.azurewebsites.net/Project4/images/deana.png"
+      }
+    ]
+  }
+  
